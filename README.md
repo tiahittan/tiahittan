@@ -1,5 +1,5 @@
 # About Me:
-I'm currently in my second year at Loughborough University doing BSc Computer Science and Artificial Intelligence. I'm currently looking for an industrial placement year.
+I'm in my second year at Loughborough University doing BSc Computer Science and Artificial Intelligence. I'm currently looking for an industrial placement year.
 
 
 # Socials:
